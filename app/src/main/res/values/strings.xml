@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Andrew Ayoub</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Andrew,
+        \n I love coding I\'m a flutter developer, and I live in the Seattle area. \nI\'m going to describe what I do, and how to get started with it.
+\n I first learned about Flutter as an approach to Android app development. That is to say, I learned about it when I learned about the Android platform as an approach to app development.
+        \n I didnot care much about what Google\'s preferred app development approach was. What I wanted to know was, how do I make Android apps? The answer is: Flutter.
+Flutter is a rendering library for your Android app. It was designed to minimize friction for users, and focus more on doing the right thing in the right way.
+My first impression of Flutter was that it did this better than any other developer environment I had used previously.
+        \n Hi, my name is Andrew,
+        \n I love coding I\'m a flutter developer, and I live in the Seattle area. \nI\'m going to describe what I do, and how to get started with it.
+\n I first learned about Flutter as an approach to Android app development. That is to say, I learned about it when I learned about the Android platform as an approach to app development.
+        \n I didnot care much about what Google\'s preferred app development approach was. What I wanted to know was, how do I make Android apps? The answer is: Flutter.
+Flutter is a rendering library for your Android app. It was designed to minimize friction for users, and focus more on doing the right thing in the right way.
+My first impression of Flutter was that it did this better than any other developer environment I had used previously.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
